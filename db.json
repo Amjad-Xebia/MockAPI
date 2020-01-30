@@ -1,4 +1,146 @@
 {
-  "id": 1,
-  "title": "hello"
+  "challenges": [
+      {
+        "id": 1,
+        "awards": {
+          "awardName": "string",
+          "awardType": "OFFER"
+        },
+        "challengeStatus": "ACTIVE",
+        "description": "string",
+        "endTime": "2020-01-30T09:29:12.867Z",
+        "exercises": [
+          {
+            "description": "string",
+            "distance": 0,
+            "exerciseType": "WALK",
+            "id": 0,
+            "reps": 0,
+            "sets": 0,
+            "totalTime": "2020-01-30T09:29:12.867Z",
+            "weight": 0
+          }
+        ],
+        "name": "Challenge 1",
+        "players": [
+          {
+            "challenges": [
+              {
+                "awards": {
+                  "awardName": "string",
+                  "awardType": "OFFER"
+                },
+                "challengeStatus": "ACTIVE",
+                "description": "string",
+                "endTime": "2020-01-30T09:29:12.867Z",
+                "exercises": [
+                  {
+                    "description": "string",
+                    "distance": 0,
+                    "exerciseType": "WALK",
+                    "id": 0,
+                    "reps": 0,
+                    "sets": 0,
+                    "totalTime": "2020-01-30T09:29:12.868Z",
+                    "weight": 0
+                  }
+                ],
+                "name": "string",
+                "players": [
+                  {
+                    
+                  }
+                ],
+                "rules": "string",
+                "startTime": "2020-01-30T09:29:12.868Z"
+              }
+            ],
+            "email": "string",
+            "firstName": "string",
+            "lastName": "string",
+            "phoneNumber": 0,
+            "playerAccount": {
+              
+            },
+            "playerType": "ADMIN",
+            "pointsEarned": 0
+          }
+        ],
+        "rules": "string",
+        "startTime": "2020-01-30T09:29:12.868Z"
+      },
+      {
+        "id": 2,
+        "awards": {
+          "awardName": "string",
+          "awardType": "OFFER"
+        },
+        "challengeStatus": "ACTIVE",
+        "description": "string",
+        "endTime": "2020-01-30T09:29:12.867Z",
+        "exercises": [
+          {
+            "description": "string",
+            "distance": 0,
+            "exerciseType": "WALK",
+            "id": 0,
+            "reps": 0,
+            "sets": 0,
+            "totalTime": "2020-01-30T09:29:12.867Z",
+            "weight": 0
+          }
+        ],
+        "name": "Challenge 2",
+        "players": [
+          {
+            "challenges": [
+              {
+                "awards": {
+                  "awardName": "string",
+                  "awardType": "OFFER"
+                },
+                "challengeStatus": "ACTIVE",
+                "description": "string",
+                "endTime": "2020-01-30T09:29:12.867Z",
+                "exercises": [
+                  {
+                    "description": "string",
+                    "distance": 0,
+                    "exerciseType": "WALK",
+                    "id": 0,
+                    "reps": 0,
+                    "sets": 0,
+                    "totalTime": "2020-01-30T09:29:12.868Z",
+                    "weight": 0
+                  }
+                ],
+                "name": "string",
+                "players": [
+                  {
+                    
+                  }
+                ],
+                "rules": "string",
+                "startTime": "2020-01-30T09:29:12.868Z"
+              }
+            ],
+            "email": "string",
+            "firstName": "string",
+            "lastName": "string",
+            "phoneNumber": 0,
+            "playerAccount": {
+              
+            },
+            "playerType": "ADMIN",
+            "pointsEarned": 0
+          }
+        ],
+        "rules": "string",
+        "startTime": "2020-01-30T09:29:12.868Z"
+      }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "amjad khan" }
 }
